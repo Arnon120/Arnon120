@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Arnon120
+- 👀 I’m interested in:
+  - Math: Representation theroy, Number theory.
+  - Computer Science: Machine learning, Algorithmics
+- 🌱 I’m refining my Python skills and my algorithmics basics.
+- 💞️ I’m looking for a job in whatever turns out to be interesting.
+- 📫 You can reach me by email: arnon120[at]gmail.com
